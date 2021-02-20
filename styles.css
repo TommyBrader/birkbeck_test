@@ -1,0 +1,16 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  font-size: 4rem;
+  color: navy;
+  text-align: center;
+  transition: 1s;
+}
+
+h1:hover {
+  /* background-color: navy; */
+  color: red;
+  cursor: pointer;
+}
